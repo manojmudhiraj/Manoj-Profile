@@ -1,0 +1,29 @@
+body{
+    background-color: #EAF6F6;
+  }
+  
+  th{ background-color: red;}
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+  }
+  
+  h3{ color: #66BFBF
+  
+  }
+  h1{ color:red;}
+
+  .projectimg1{
+    width:15%;
+    padding-left:10px;
+    height:30%;
+  }
+  .projectimg2{
+    width:15%;
+    height:30%;
+   padding-left:100px;
+  }
+  
